@@ -29,7 +29,8 @@ function FindProxyForURL(url, host) {
         "docker", "medium", "gitlab",
         "openai", "chatgpt", "anthropic", "claude", "perplexity",
         "wikipedia", "wikimedia", "arxiv", "springer", "sciencedirect",
-        "klei", "91porn", "pornhub", "phncdn", "51cg", "jiuse3", "cdn77"
+        "klei", "91porn", "pornhub", "phncdn", "51cg", "jiuse3", "cdn77",
+        "greasyfork"
     ];
 
     for (var i = 0; i < proxyKeywords.length; i++) {
